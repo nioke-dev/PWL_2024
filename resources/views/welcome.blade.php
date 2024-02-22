@@ -10,6 +10,8 @@
 <body>
     <h2>Pemrograman Web Lanjut 2024</h2>
     <h3>Semangat Belajar Laravel 10</h3>
+
+    <a href="{{ route('profile') }}"> Menuju ke Route Name Profile</a>
 </body>
 
 </html>
